@@ -1,0 +1,14 @@
+package String2;
+
+public class TruncateString {
+	public static String truncate(String str, int maxLength) {
+        if (str.length() <= maxLength) return str;
+        return str.substring(0, maxLength) + "...";
+    }
+
+    public static void main(String[] args) {
+        String input = "This is a long string that needs to be truncated.";
+        System.out.println("Truncated: " + truncate(input, 20));
+    }
+
+}
