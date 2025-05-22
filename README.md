@@ -116,7 +116,7 @@ ________________________________________________________________________________
 
 [8b.UpdateCoffee.3]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/8b.jdbc/UpdateCoffee.3.png)
 
-[8c.jdbc outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/8c.jdbc/8c.jdbc.png)
+[8c.insert output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/8c.jdbc/8c.insert.png)
 
 [8d.jdbc output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/8d.jdbc/8d.jdbc.png)
 
