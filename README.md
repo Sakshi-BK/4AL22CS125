@@ -132,4 +132,7 @@ ________________________________________________________________________________
 [9c.EmpInsertAndReport.1 outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9c.jsp/EmpInsertAndReport.1.png)
 
 [9c.EmpInsertAndReport.2 outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9c.jsp/EmpInsertAndReport.2.png)
-[9d.jsp outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9d.jsp/9d.jsp.png)
+
+[9d.deleteEmployee.1]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9d.jsp/deleteEmployee.1.png)
+
+[9d.deleteEmployee.2]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9d.jsp/deleteEmployee.2.png)
