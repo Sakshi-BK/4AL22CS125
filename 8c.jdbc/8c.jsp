@@ -1,54 +1,47 @@
-package com.mysql;
-import java.sql.*;
-import java.util.Properties;
-public class Mysql_Delete {
+//insert_emp.jsp
+<%@ page import="java.sql.*" %>
+<%@ page import="java.util.*" %>
 
-public static void main(String[] args)
-{
-try
-{
-Connection dbConnection = null;
-String url = "jdbc:mysql://localhost/test";
-Properties info = new Properties();
-info.put("user", "root");
-info.put("password", "");
-dbConnection = DriverManager.getConnection(url, info);
-if (dbConnection != null)
-{
-System.out.println("Successfully connected to MySQL database test");
-}
+<html>
+<head><title>Insert Employee</title></head>
+<body>
 
-//SQL SELECT query.
-// if you only need a few columns, specify them by name instead of using "*"
-String query = "SELECT * FROM coffee";
-// create the java statement
-Statement st = dbConnection.createStatement();
-// execute the query, and get a java resultset
-ResultSet rs = st.executeQuery(query);
-// iterate through the java resultset
-while (rs.next())
-{
+<%
+String empnoStr = request.getParameter("empno");
+String empname = request.getParameter("empname");
+String basicsalaryStr = request.getParameter("basicsalary");
 
-int id = rs.getInt("id");
-String coffee_name = rs.getString("coffee_name");
-int priced= rs.getInt("priced");
-// print the results
-System.out.format("\n%d, %s, %d", id,coffee_name,priced);
-}
+if (empnoStr != null && empname != null && basicsalaryStr != null) {
+    int empno = Integer.parseInt(empnoStr);
+    int basicsalary = Integer.parseInt(basicsalaryStr);
 
-// Deleting records
-String query3 = "delete from coffee where id=264";
-PreparedStatement preparedStmt2 = dbConnection.prepareStatement(query3);
-preparedStmt2.execute();
-dbConnection.close();
+    Connection conn = null;
+    try {
+        Class.forName("com.mysql.cj.jdbc.Driver");
+        conn = DriverManager.getConnection("jdbc:mysql://localhost/Employee", "root", "");
+        String sql = "INSERT INTO Emp (Emp_NO, Emp_Name, Basicsalary) VALUES (?, ?, ?)";
+        PreparedStatement ps = conn.prepareStatement(sql);
+        ps.setInt(1, empno);
+        ps.setString(2, empname);
+        ps.setInt(3, basicsalary);
+        ps.executeUpdate();
+        out.println("<h3>Record inserted successfully!</h3>");
+        ps.close();
+    } catch (Exception e) {
+        out.println("Error: " + e.getMessage());
+    } finally {
+        if (conn != null) conn.close();
+    }
+}
+%>
 
-preparedStmt2.close();
+<h2>Enter Employee Details</h2>
+<form method="post">
+    Emp No: <input type="text" name="empno" required><br>
+    Name: <input type="text" name="empname" required><br>
+    Basic Salary: <input type="text" name="basicsalary" required><br>
+    <input type="submit" value="Insert">
+</form>
 
-}
-catch (Exception e)
-{
-System.err.println("Got an exception! ");
-System.err.println(e.getMessage());
-}
-}
-}
+</body>
+</html>
