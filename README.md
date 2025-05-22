@@ -123,10 +123,13 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 9.MSQL PROGRAM
 
-[9a.jsp outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9a.jsp/9a.jsp.png)
+[9a.deleteCoffee.1]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9a.jsp/deleteCoffee.1.png)
 
-[9b.jsp outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9b.jsp/9b.jsp.png)
+[9a.deleteCoffee.2]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9a.jsp/deletecoffee.2.png)
 
-[9c.jsp outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9c.jsp/9c.jsp.png)
+[9b.CoffeeStartsWithD]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9b.jsp/CoffeeStartsWithD.png)
 
+[9c.EmpInsertAndReport.1 outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9c.jsp/EmpInsertAndReport.1.png)
+
+[9c.EmpInsertAndReport.2 outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9c.jsp/EmpInsertAndReport.2.png)
 [9d.jsp outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9d.jsp/9d.jsp.png)
