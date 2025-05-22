@@ -1,33 +1,38 @@
-[ListOperationsDemo outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1a.ArrayList/1a.ListOperationsDemo.png)
+1.ARRAYLIST AND LINKEDLIST
+
+[1a.ListOperationsDemo outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1a.ArrayList/1a.ListOperationsDemo.png)
+
+[1b.ColorDeleteByIndex Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorDeleteByIndex.png)
+
+[1b.ColorRemove Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorRemove.png)
+
+[1b.ColorSearch Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorSearch.png)
+
+[1b.ColorSort Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorSort.png)
+
+[1b.ColorSubList Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorSubList.png)
 
 
-[ColorDeleteByIndex Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorDeleteByIndex.png)
+[1c.LinkedListDisplayWithIndex output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListDisplayWithIndex.png)
 
-[ColorRemove Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorRemove.png)
+[1c.LinkedListOfferLast]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListOfferLast.png)
 
-[ColorSearch Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorSearch.png)
+[1c.LinkedListReverse]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListReverse.png)
 
-[ColorSort Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorSort.png)
+[1c.LinkedListStartFromSecond]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListStartFromSecond.png)
 
-[ColorSubList Outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1b.ArrayList/1b.ColorSubList.png)
+[1c.LinkedListSwapElements]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListSwapElements.png)
 
+________________________________________________________________________________________________
+2.STRING OPERATION AND STRING BUFFER
 
-[LinkedListDisplayWithIndex output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListDisplayWithIndex.png)
-
-[LinkedListOfferLast]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListOfferLast.png)
-
-[LinkedListReverse]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListReverse.png)
-
-[LinkedListStartFromSecond]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListStartFromSecond.png)
-
-[LinkedListSwapElements]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/1c.LinkedList/1c.LinkedListSwapElements.png)
+[2a.StringOperatins output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/2a.stringhandlingfunctions/2a.StringOperations.png)
 
 
-[StringOperatins output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/2a.stringhandlingfunctions/2a.StringOperations.png)
+[2a.PerformanceTest Output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/2b.StringBufferandStringBuilder/2b.PerformanceTest.png)
 
-
-[PerformanceTest Output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/2b.StringBufferandStringBuilder/2b.PerformanceTest.png)
-
+________________________________________________________________________________________________
+3.STRING OPERATION AND STRING EXERCISES
 
 [3aStringFunctions outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/3a.string%20handling%20functions/3a.StringFunctions.png)
 
@@ -52,14 +57,16 @@
 [3c.RandomString outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/3C.String/3c.RandomString.png)
 
 [3c.TruncateString outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/3C.String/3c.TruncateString.png)
-
+________________________________________________________________________________________________
+4.SWING PEOGRAMS
 
 [4a.HelloSwing outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/4a.Swing/4a.HelloSwing.png)
 
 [4b.CountryButton outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/4b.Swing/4b.CountryButton.png)
 
 [4c.ImageButton output link]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/4c.Swing/4c.ImageButton.png)
-
+________________________________________________________________________________________________
+5.SWING PROGRAMS
 
 [5a.CountryList]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/5a.Swing/5a.CountryList.png)
 
@@ -73,13 +80,17 @@
 
 [5d.ColorTabbedPaneCMY outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/5d.Swing/5d.ColorTabbedPaneCMY.png)
 
+________________________________________________________________________________________________
+6.SERVLET PROGRAM
 
-[FactorialServlet output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/6a.Servlet/facCal.png, https://github.com/Sakshi-BK/4AL22CS125/blob/main/6a.Servlet/factorial.png )
+[6a.FactorialServlet output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/6a.Servlet/facCal.png, https://github.com/Sakshi-BK/4AL22CS125/blob/main/6a.Servlet/factorial.png )
 
-[CookieServlet output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/6b.Servlet/6b.welcome.png, https://github.com/Sakshi-BK/4AL22CS125/blob/main/6b.Servlet/6b.cookie.png)
+[6b.CookieServlet output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/6b.Servlet/6b.welcome.png, https://github.com/Sakshi-BK/4AL22CS125/blob/main/6b.Servlet/6b.cookie.png)
 
-[PrimeServlet output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/6c.Servlet/primeno.png, https://github.com/Sakshi-BK/4AL22CS125/blob/main/6c.Servlet/prime.png)
+[6c.PrimeServlet output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/6c.Servlet/primeno.png, https://github.com/Sakshi-BK/4AL22CS125/blob/main/6c.Servlet/prime.png)
 
+________________________________________________________________________________________________
+7.JSP PROGRAM
 
 [7a.SessionManagement1]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/7a.Session%20Management/7a.SessionManagement1.png)
 
@@ -92,6 +103,8 @@
 
 [7b.Cookie%20Management1 outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/7b.Cookie%20Management/7b.Cookie%20Management1.png)
 
+________________________________________________________________________________________________
+8.HTML AND JSP AND JDBC PROGRAM
 
 [8a.jdbc outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/8a.jdbc/8a.jdbc.png)
 
@@ -101,6 +114,8 @@
 
 [8d.jdbc output]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/8d.jdbc/8d.jdbc.png)
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+9.MSQL PROGRAM
 
 [9a.jsp outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/9a.jsp/9a.jsp.png)
 
