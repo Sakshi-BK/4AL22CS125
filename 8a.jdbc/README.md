@@ -1,1 +1,0 @@
-[8a.jdbc outputlink]->(https://github.com/Sakshi-BK/4AL22CS125/blob/main/8a.jdbc/8a.jdbc.png)
